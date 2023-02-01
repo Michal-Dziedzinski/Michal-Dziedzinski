@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Michał Dziedziński. For almost 5 years I have been working as a programmer, I constantly try to explore my knowledge and broaden my horizons through courses, participation in meetups, hackathons, workshops and conferences. I particularly want to develop in JavaScript, preferably in Vue.
+ For almost five years I have been working as a programmer. I am constantly trying to broaden my knowledge and horizons through courses, participation in meetups, hackathons, workshops and conferences. I particularly want to develop in JavaScript, preferably in Vue.
 
 ## Feel free to contact me:
 
