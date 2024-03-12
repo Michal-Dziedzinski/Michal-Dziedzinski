@@ -1,6 +1,8 @@
 # 👋 Hi there!
 
- For almost five years I have been working as a programmer. I am constantly trying to broaden my knowledge and horizons through courses, participation in meetups, hackathons, workshops and conferences. I particularly want to develop in JavaScript, preferably in Vue.
+I'm a front-end developer with six years of experience. I've worked with different front-end technologies like Vue.js and React. I also have experience in open-source projects and working in both big and small teams.
+
+I really enjoy learning new things and spend a lot of time doing it. Besides, I like sharing what I know. I create courses and tutorials to help others learn about web development.
 
 ## ✉️ Feel free to contact me:
 
