@@ -1,8 +1,8 @@
 # 👋 Hi there!
 
-I'm a front-end developer with six years of experience. I've worked with different front-end technologies like Vue.js and React. I also have experience in open-source projects and working in both big and small teams.
+I'm a front-end developer with professional experience in building user-centered web applications since 2017. I specialize in modern front-end technologies like Vue.js and React, and I’ve worked in diverse environments—from agile, fast-paced teams to larger, more complex projects. I’ve also contributed to open-source initiatives, which has further sharpened my skills and collaborative mindset.
 
-I really enjoy learning new things and spend a lot of time doing it. Besides, I like sharing what I know. I create courses and tutorials to help others learn about web development.
+I have a strong passion for continuous learning and enjoy exploring new tools and technologies in web development. I also love sharing my knowledge—I create courses and tutorials to help others grow as developers and improve their skills.
 
 ## ✉️ Feel free to contact me:
 
